@@ -1,0 +1,1544 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html><html lang="en">
+<!--
+_____________________________________________________________________________
+
+
+
+** Theme made by Jeallowzz **
+https://warugaki-themes.tumblr.com
+
+
+_____________________________________________________________________________
+
+
+
+Theme #20
+
+2019 VERSION
+                              
+                              
+____________________________________________________________________________
+
+CREDITS // CRÉDITOS:
+
+*Audio player color change: SHUDESINGS
+https://shudesigns.tumblr.com/post/158812662057/tutorial-change-the-color-of-tumblrs-new-audio¨
+
+*Like button: a post on stackoverflow
+https://stackoverflow.com/questions/21708662/customise-tumblrs-new-like-button-iframe-likebutton/21715659#21715659
+
+*Tool tip: Style my tool tip
+http://manos.malihu.gr/style-my-tooltips-jquery-plugin/
+
+_____________________________________________________________________________ 
+
+
+IMPOTANT:
+
+Thanks for using my theme. Just enjoy it! but please don't forget:
+
+*Do not use as base code.
+*Do not steal.
+*Do not redistribute.
+*You can modify it but please let intact my credit (at least visible).
+
+/////////////////////////////////////////////////////////////////////////////
+
+IMPORTANTE:
+
+Gracias por usar mi tema. ¡Disfrútalo! pero por favor no olvides:
+
+*No usar como base.
+*No lo robes.
+*No lo resubas.
+*Puedes editarlo pero no borres mis créditos (o al menos déjalos visibles).
+
+
+
+_____________________________________________________________________________ -->
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ugh, As If</title>
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=b84ed2eb31f8e1bbdb3e7a53afa67dd4"><link rel="shortcut icon" href="https://64.media.tumblr.com/dc926233659c3d078d5ce20c766391c7/5fac316f9bb61463-fc/s128x128u_c1/e6b024ac7a74018d1fa2f8066b5a11be1f577eb3.jpg"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://clueless-cutie.tumblr.com/rss"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+
+
+<!-- images/imágenes -->
+<meta name="image:Body bg" content="https://static.tumblr.com/fpdtns5/Xzwo7if3n/tumblr_nycqfccbvg1urmk9bo1_250222222.png">
+<meta name="image:EditAvatar" content="https://68.media.tumblr.com/5943240279b8d207b270e53bdd4532d6/tumblr_ojkh2pvyHb1tc0a1no1_540.jpg">
+
+<!-- colours/colores -->
+<meta name="color:Body bg" content="#fff">
+<meta name="color:Bg1" content="#ECE0F8">
+<meta name="color:Bg2" content="#fff">
+<meta name="color:Text" content="#999">
+<meta name="color:Links" content="#D0A9F5">
+<meta name="color:LinksHover" content="#777">
+<meta name="color:AudioPlayerBg" content="#ECE0F8">
+<meta name="color:AudioPlayerText" content="#fff">
+<meta name="color:ReblogButton" content="#ECE0F8">
+<meta name="color:LikeButton" content="#ECE0F8">
+
+<!-- options / opciones -->
+
+<meta name="if:EditAvatar" content="1">
+<meta name="if:ShowNotes" content="1">
+<meta name="if:ShowDate" content="1">
+<meta name="if:ShowCaptions" content="1">
+<meta name="if:ShowTags" content="1">
+<meta name="if:ReblogButton" content="1">
+<meta name="if:LikeButton" content="1">
+
+<meta name="text:PhotoMarginTop" content="50">
+
+<meta name="text:Home" content="Index">
+<meta name="text:HomeIcon" content="home">
+
+<meta name="text:Ask" content="Ask">
+<meta name="text:AskIcon" content="envelope">
+
+<meta name="text:Link1" content="Link1Title">
+<meta name="text:Link1Icon" content="tags">
+<meta name="text:Link1URL" content="http://">
+
+<meta name="text:Link2" content="Link2Title">
+<meta name="text:Link2Icon" content="star">
+<meta name="text:Link2URL" content="http://">
+
+<meta name="text:Link3" content="">
+<meta name="text:Link3Icon" content="">
+<meta name="text:Link3URL" content="">
+
+<meta name="text:Link4" content="">
+<meta name="text:Link4Icon" content="">
+<meta name="text:Link4URL" content="">
+
+<meta name="text:Link5" content="">
+<meta name="text:Link5Icon" content="">
+<meta name="text:Link5URL" content="">
+
+<meta name="text:FacebookLink" content="facebook">
+<meta name="text:FacebookURL" content="http://">
+<meta name="text:TwitterURL" content="http://">
+<meta name="text:TwitterLink" content="twitter">
+<meta name="text:InstagramURL" content="http://">
+<meta name="text:InstagramLink" content="instagram">
+ 
+<meta name="text:AboutSectionTitle" content="About me">
+
+<meta name="text:ReadMore" content="Read more...">
+
+<style type="text/css">
+
+
+/* BASIC 
+************************************************************************** */
+
+iframe.tmblr-iframe {
+    z-index:99999999999999!important;
+    top:-5px!important;
+    right:0!important;
+    transform:scale(0.65);
+    transform-origin:100% 0;
+    -webkit-transform:scale(0.65);
+    -webkit-transform-origin:100% 0;
+    -o-transform:scale(0.65);
+    -o-transform-origin:100% 0;
+    -moz-transform:scale(0.65);
+    -moz-transform-origin:100% 0;
+    -ms-transform:scale(0.65);
+    -ms-transform-origin:100% 0;}
+
+::-webkit-scrollbar{
+	height:5px; 
+	width:7px; 
+	background:transparent!important;
+}
+
+::-webkit-scrollbar-thumb{
+	background:#f8e0e5;
+}
+
+
+a:link, a:active, a:visited{
+	color:#f5a9e2;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#777;
+}
+
+body{
+	font-family:verdana; 
+	font-size:11px;
+	line-height:16px;
+	color:#999;
+	margin: 0;
+	background-color:#fff;
+	background-image:url('https://static.tumblr.com/fpdtns5/Xzwo7if3n/tumblr_nycqfccbvg1urmk9bo1_250222222.png');
+	background-attachment:fixed;
+    background-repeat:repeat;
+    background-position:top left;
+}
+
+u {border-bottom:1px solid #f8e0e5; text-decoration: none;}
+b {font-weight:600;}
+i {text-decoration:italic;}
+
+blockquote, pre{
+    width:100%;
+    text-align:left;
+    margin:0px auto 0px;
+}
+
+blockquote video,
+video{max-width:100%!important;}
+
+.tumblr_audio_player{height:85px;}
+
+
+
+/* MAIN
+************************************************************************** */
+
+#outer{
+	position:absolute;
+	top:50%;
+	left:0px;
+	right:0px;
+	margin:-293px auto;
+	width:1080px;
+	height:585px;
+}
+
+#sidebar1{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:400px;
+    height:500px;
+    border-radius:10px;
+    background:#fff;
+}
+
+.sidect{
+	position:absolute;
+	top:0px;
+	left:30px;
+	padding:10px;
+	width:360px;
+	height:480px;
+	overflow: auto;
+	text-align:center;
+}
+
+img.avatar{margin:50px auto 10px;width:130px;height:130px;border-radius:100%;}
+
+.sidebar2{
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    width:400px;
+    height:50px;
+    border-radius:10px;
+    background:#fff;
+    overflow:hidden;
+}
+
+#menu{
+    margin:15px auto 0px;
+    width:100%;
+    text-align:center;
+}
+
+#menu a{
+    font-size:20px;
+    margin:0px 10px;
+    cursor:pointer;
+}
+
+.outer{
+	position:absolute;
+	top:0px;
+	right:0px;
+	width:650px;
+	height:585px;
+	background:#fff;
+	border-radius:10px;
+}
+
+.title{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:640px;
+	height:30px;
+	font-size:25px;
+	font-family:georgia;
+	background:#f8e0e5;
+	color:#fff;
+	letter-spacing:-1px;
+	font-style:italic;
+	text-align:right;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	padding-top:10px;
+	padding-right:10px;
+}
+
+#holder{
+    position:absolute;
+    top:40px;
+    left:0px;
+	width:100%;
+	height:505px;
+	overflow:auto;
+}
+
+.posts{
+	margin:20px auto 60px;
+	width:400px;
+	padding:10px;
+	border-bottom:1px solid #f8e0e5;
+}
+
+#footer{
+    position:relative;
+    margin:5px auto 0px;
+    width:100%;
+}
+
+#w-likereblogbuttons{
+    position:relative;
+    float:left;
+    display:inline-block;
+    margin:4px 5px;
+    width:31px;
+    height:12px;
+}
+ 
+
+.w-likebutton,
+.w-reblogbutton{
+    position:absolute!important;
+    width:12px;
+    height:12px;
+    line-height:3px;
+}
+
+.w-likebutton{top:0px;left:0px;}
+.w-reblogbutton{top:0px;left:18px;}
+.w-reblogbutton a svg{fill:#ECE0F8;}
+
+.notas{display:inline-block;float:left;font-size:10px;}
+ 
+.date{display:inline-block;float:right;font-size:10px;}
+ 
+.tags{display:inline-block;width:100%;margin:3px auto 3px;font-size:10px;}
+
+.custom-like-button {position: relative;display: block;width: 12px;height: 13px;cursor: pointer;}
+
+/* class for the Tumblr Like Button iframe */
+.like_button {position: absolute;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;opacity: 0;z-index: 10;}
+
+/* Force iframe to fill button */
+.like_button iframe {width: 100% !important;height: 100% !important;}
+
+/* class for Our Like Button */
+.our_button {position: absolute;top: 0;left: 0;right: 0;bottom: 0;width: 100%;height: 100%;z-index: 1;}
+
+.our_toggle svg{fill:#ECE0F8;}
+
+/* Liked State */
+.like_button.liked{
+  margin-top:-1.5px;
+}
+
+.like_button:hover{opacity:0;z-index:0;}
+.like_button.liked{opacity:1;}
+
+.rebloggedct video{max-width:400px;margin:0px;}
+
+.linearebloggedct{width:100%;height:1px;border-bottom:1px dashed #f8e0e5;margin-bottom:10px;}
+.linearebloggedct:first-child{border-bottom:none;}
+
+.reblogctimage{;float:left;width:15px;margin:0px 5px 0px 0px;display:inline-block;}
+
+.rebloggedusername{width:100%;text-align:left;margin-bottom:5px;}
+
+h2{
+    width:100%;
+    box-sizing:border-box;
+    padding:5px;
+    text-align:left;
+    font-weight:400;
+}
+
+.h2arrow{
+    border-top:10px solid transparent;
+	border-bottom:10px solid transparent;
+	border-left:10px solid #f5a9e2;
+	float:left;
+	display:inline-block;
+	margin-right:10px;
+}
+
+.titlearrow{
+    border-top:10px solid transparent;
+	border-bottom:10px solid transparent;
+	border-right:10px solid #fff;
+	float:right;
+	display:inline-block;
+	margin-left:10px;
+}
+
+
+
+/* IMAGES
+*************************************************************************** */
+ 
+img{max-width:100%;margin:0px auto 20px;opacity:0.8;}
+.photoset{max-width:100%!important; margin:0px auto 10px;}
+#youtube_iframe{max-width:100%;margin:0px auto 5px;}
+ 
+
+
+
+/* ASK
+************************************************************************** */
+ 
+.respuestas{position:relative;width:100%;border:1px solid #f8e0e5;text-align:left;}
+.respuestas:first-child{margin-bottom:10px;}
+
+.preguntador{margin:5px 30px;width:365px;padding-left:5px;border-bottom:1px solid #f8e0e5;}
+
+.respuestasimage{width:30px;height:30px;float:left;margin:0px;}
+
+.respuestasct{width:390px;word-wrap: break-word;padding:5px;margin-top:5px;text-align:left;}
+
+.respuestasct2{width:395px;padding-left:5px;word-wrap: break-word;text-align:left;}
+
+
+
+/* NOTES
+************************************************************************** */
+ 
+ol.notes{list-style-type:none;padding-bottom:10px;padding-inline-start:0px!important;}
+ol.notes li.note img.avatar {display:none;}
+li.note:before {content: "•"}
+ol.notes li.note .answer_content {text-decoration:underline;}
+
+.postsnotes{
+    width:100%;
+    padding-top:10px;
+    text-align:left;
+    border-top:1px solid #f8e0e5;
+}
+
+
+
+
+/* PAGINATION
+*************************************************************************** */
+
+.pagination{
+    position:absolute;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:30px;
+	font-size:15px;
+	background:#f8e0e5;
+	color:#fff;
+	text-align:left;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	padding-top:10px;
+}
+
+.pagination a{
+    color:#fff;
+    margin:0px 10px;
+}
+
+
+
+/* TOOLTIP 
+************************************************************************** */
+
+#s-m-t-tooltip {
+        padding:3px;
+        margin:20px 0px 0px 10px;
+        background:#f8e0e5;
+        font-size:11px;
+        text-transform:uppercase;
+        z-index:9999999;
+        letter-spacing:2px;
+        border-radius:5px;
+        color:#fff;
+} 
+
+
+.s-lnks{
+    position:absolute;
+    top:0px;
+    left:0px;
+    background:#f8e0e5;
+    width:30px;
+    height:100%;
+    text-align:center;
+    font-size:16px;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+
+.s-lnks a{
+    display:block;
+    margin:20px auto 20px;
+    color:#fff;
+}
+
+</style>
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=clueless-cutie%26postID=661816567124852736" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=clueless-cutie&postID=661816567124852736" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://clueless-cutie.tumblr.com/post/661816567124852736" title=""/><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/ziclets/stylesheet.css?v=1"><meta name="keywords" content="pink,pastel,aesthetic,light,pale" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Ugh, As If" /><meta property="og:url" content="https://clueless-cutie.tumblr.com/?og=1" /><meta property="og:description" content="❀ Pink Aesthetic ❀" /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="https://64.media.tumblr.com/dc926233659c3d078d5ce20c766391c7/5fac316f9bb61463-fc/s128x128u_c1/e6b024ac7a74018d1fa2f8066b5a11be1f577eb3.jpg" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=clueless-cutie" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=clueless-cutie" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="clueless-cutie" /><meta name="twitter:title" content="clueless-cutie" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=clueless-cutie&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=clueless-cutie&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=clueless-cutie&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"https:\/\/clueless-cutie.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/671329240234541057"},{"@type":"ListItem","position":2,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/671213303604887552"},{"@type":"ListItem","position":3,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/669163032160698368\/i-really-like-to-party-i-really-like-your-body-i"},{"@type":"ListItem","position":4,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/669161521031544832"},{"@type":"ListItem","position":5,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/668146474898636800"},{"@type":"ListItem","position":6,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/664723830134177792"},{"@type":"ListItem","position":7,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/664723569698390016\/are-you-accepting-partnerships"},{"@type":"ListItem","position":8,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/662805210525319168\/lace-bowknot-lingerie-3-colors-more-10"},{"@type":"ListItem","position":9,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/661816664512512000\/cokaino-photo-source"},{"@type":"ListItem","position":10,"url":"https:\/\/clueless-cutie.tumblr.com\/post\/661816567124852736"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://clueless-cutie.tumblr.com" /></head>
+
+<body>
+
+<!-- Do not touch this please!! -->
+<div style="position:fixed;bottom:5px;left:5px;font-size:13px;z-index:10000;">© <a href="https://warugaki-themes.tumblr.com/" target="_blank">Theme</a></div>
+
+<div id="outer">
+
+<div id="sidebar1">
+<div class="s-lnks">
+
+<a href="http://" title="facebook"><i class="fa fa-facebook"></i></a>
+
+
+<a href="http://" title="twitter"><i class="fa fa-twitter"></i></a>
+
+
+<a href="http://" title="instagram"><i class="fa fa-instagram"></i></a>
+
+</div>
+<div class="sidect">
+<h2><div class="h2arrow"></div>About me</h2><br>
+<img src="https://64.media.tumblr.com/dc926233659c3d078d5ce20c766391c7/5fac316f9bb61463-fc/s128x128u_c1/e6b024ac7a74018d1fa2f8066b5a11be1f577eb3.jpg" class="avatar"><br>
+❀ Pink Aesthetic ❀
+</div><!-- about -->
+</div><!-- sidebar1 -->
+
+<div class="sidebar2">
+<div id="menu">
+<a href="/" title="Index"><i class="fa fa-home"></i></a>
+<a href="/ask" title="Ask"><i class="fa fa-envelope"></i></a>
+
+
+
+
+
+</div><!-- menu -->
+</div><!-- sidebar2 -->
+
+<div class="outer">
+
+<div class="title">Ugh, As If <div class="titlearrow"></div></div>
+
+<div class="pagination">
+
+
+
+ 
+
+
+<a href="/page/2" title="Next"><i class="fa fa-arrow-right"></i></a>
+
+
+</div>
+
+<div id="holder">
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/bf1be6990e31f23bcaae4e8a01e4c2ba/6da1fab1aaf5fe93-29/s1280x1920/c49adc1fa93a32f51217d13d516069d11c79133b.gifv" data-big-photo-height="500" data-big-photo-width="500"><img class="post_media_photo image" src="https://64.media.tumblr.com/bf1be6990e31f23bcaae4e8a01e4c2ba/6da1fab1aaf5fe93-29/s500x750/b1865ff0ea951f013650073996602f367be5ade5.gifv" alt="image"></a></figure>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="671329240234541057" data-blog-name="clueless-cutie" id="like_button_671329240234541057"><iframe id="like_iframe_671329240234541057" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=671329240234541057&amp;color=black&amp;rk=QsuT6Mj9" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_671329240234541057"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/671329240234541057/QsuT6Mj9" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">48</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/b49fce7dd0ef81ef8eb8798e16468b24/0ab392186071b53e-9c/s1280x1920/2bce534f73a9b5063f523116326d5c94310bc3f8.png" data-big-photo-height="750" data-big-photo-width="750"><img class="post_media_photo image" src="https://64.media.tumblr.com/b49fce7dd0ef81ef8eb8798e16468b24/0ab392186071b53e-9c/s500x750/55802233c3ac53c3d010332450f01f4a9a4106c2.png" alt="image"></a></figure>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="671213303604887552" data-blog-name="clueless-cutie" id="like_button_671213303604887552"><iframe id="like_iframe_671213303604887552" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=671213303604887552&amp;color=black&amp;rk=vN1L4UzD" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_671213303604887552"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/671213303604887552/vN1L4UzD" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">338</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<p class="npf_quirky"><small><span class="npf_color_niles">I really like to party</span></small></p><p class="npf_quirky"><small><span class="npf_color_niles">I really like your body</span></small></p><p class="npf_quirky"><span class="npf_color_niles"><small>I really wanna get naughty</small></span></p><p class="npf_quirky"><span class="npf_color_niles"><small>I think you&rsquo;re such a hottie</small></span></p>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="669163032160698368" data-blog-name="clueless-cutie" id="like_button_669163032160698368"><iframe id="like_iframe_669163032160698368" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=669163032160698368&amp;color=black&amp;rk=AZyo5w6w" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_669163032160698368"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/669163032160698368/AZyo5w6w" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">26</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/9efc78e2f0db28ae322d6ce9b282b510/12ca46256b22dc8f-6f/s1280x1920/ef628658815485916bc4a71e9aa22363f9a4632f.png" data-big-photo-height="1280" data-big-photo-width="1241"><img class="post_media_photo image" src="https://64.media.tumblr.com/9efc78e2f0db28ae322d6ce9b282b510/12ca46256b22dc8f-6f/s500x750/7f535dd8f17f21d2f1215daddecf289fd6f50e8c.png" alt="image"></a></figure>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="669161521031544832" data-blog-name="clueless-cutie" id="like_button_669161521031544832"><iframe id="like_iframe_669161521031544832" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=669161521031544832&amp;color=black&amp;rk=pSSWzpyr" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_669161521031544832"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/669161521031544832/pSSWzpyr" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">84</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/02ffb807498958b82a5878a2720eb392/359474be37bedf8c-19/s1280x1920/ebd7fdf11cd1dacf94be44fece6b8e50b77d78ee.png" data-big-photo-height="1278" data-big-photo-width="1280"><img class="post_media_photo image" src="https://64.media.tumblr.com/02ffb807498958b82a5878a2720eb392/359474be37bedf8c-19/s500x750/68d968d06519fb30966e723d9fede2bdaa5977ea.png" alt="image"></a></figure>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="668146474898636800" data-blog-name="clueless-cutie" id="like_button_668146474898636800"><iframe id="like_iframe_668146474898636800" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=668146474898636800&amp;color=black&amp;rk=8w1Fo6lJ" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_668146474898636800"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/668146474898636800/8w1Fo6lJ" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">102</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/aae274de9c669679c9e0a403501a4fca/939650358a445219-76/s1280x1920/40baba5f97a358cfa69819b45b04cb0c0cb95f24.jpg" data-big-photo-height="1045" data-big-photo-width="1080"><img class="post_media_photo image" src="https://64.media.tumblr.com/aae274de9c669679c9e0a403501a4fca/939650358a445219-76/s500x750/ab1699c7419c3407d3c0c0ef08f4fa2c344a43c6.jpg" alt="image"></a></figure>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="664723830134177792" data-blog-name="clueless-cutie" id="like_button_664723830134177792"><iframe id="like_iframe_664723830134177792" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=664723830134177792&amp;color=black&amp;rk=Rtiimszy" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_664723830134177792"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/664723830134177792/Rtiimszy" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">257</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+<div class="respuestas">
+<img src="https://64.media.tumblr.com/fd244a5cb0f6baa018d4d9f6229ab161/d4691dbb6c7b53e3-86/s30x30u_c1/4a12fe83f16454f39b4edd6f14f7bc922fffc821.jpg" class="respuestasimage">
+<div class="preguntador"><a href="https://lai-polarr.tumblr.com/" class="asker">lai-polarr</a>:</div>
+<div class="respuestasct"><p>Are you accepting partnerships?</p></div>
+</div>
+
+
+<div class="respuestas">
+<img src="https://64.media.tumblr.com/dc926233659c3d078d5ce20c766391c7/5fac316f9bb61463-fc/s30x30u_c1/ca0af0e5e337d901eefa35f683cb53d7d5128c7f.jpg" class="respuestasimage">
+<div class="preguntador">clueless-cutie:</div>
+<div class="respuestasct2"><p>&#127800; <span class="npf_color_niles">Please send me a pm!</span> &#127800;</p></div>
+</div>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="664723569698390016" data-blog-name="clueless-cutie" id="like_button_664723569698390016"><iframe id="like_iframe_664723569698390016" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=664723569698390016&amp;color=black&amp;rk=TwvGHgjU" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_664723569698390016"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/664723569698390016/TwvGHgjU" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">5</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+ 
+
+ 
+
+<center><div class="ptt"><div id="photoset_662805210525319168" class="html_photoset">    <iframe
+                id="photoset_iframe_662805210525319168" name="photoset_iframe_662805210525319168"
+                class="photoset" scrolling="no" frameborder="0"
+                height="400" width="400" style="border:0; background-color:transparent; overflow:hidden;" src="/post/662805210525319168/photoset_iframe/clueless-cutie/tumblr_qzcw91Jf4e1r3bsqe/400/false"
+                onload=""
+            ></iframe></div></div></center>
+
+
+<div class="rebloggedct">
+
+
+<div class="linearebloggedct"></div>
+<div class="rebloggedusername">
+
+
+<img src="https://64.media.tumblr.com/7c43285c6337ab45b3ca1c16482bc5db/dfafaf95753aaaad-7f/s64x64u_c1/74661039f829491b76f46bf119749611ba562534.jpg" class="reblogctimage">
+
+
+
+<a href="https://lovecatcher.tumblr.com/post/662184976871194624" target="_blank">lovecatcher</a>:
+
+
+</div>
+<p><small><a href="https://href.li/?https://spreepicky.com/collections/japanese-kawaii-fashion-clothes-new-arrival/products/pink-white-black-kawaii-sweet-lace-bownot-lingerie-ss2011?ref=igwcibi8_y0"><span style="color: #ffaed7">lace bowknot lingerie (3 colors)</span></a> <span style="color: #ffaed7"> <span style="color: #ffaed7">&#9825; </span> <a href="https://href.li/?https://spreepicky.com/?ref=igwcibi8_y0"><span style="color: #ffaed7">more</span></a> <span style="color: #ffaed7"> <br /><span style="color: #ffaed7">1</span><span style="color: #ffaed7">0</span><span style="color: #ffaed7">%</span><span style="color: #ffaed7"> </span><span style="color: #ffaed7">d</span><span style="color: #ffaed7">i</span><span style="color: #ffaed7">s</span><span style="color: #ffaed7">c</span><span style="color: #ffaed7">o</span><span style="color: #ffaed7">u</span><span style="color: #ffaed7">n</span><span style="color: #ffaed7">t</span><span style="color: #ffaed7"> </span><span style="color: #ffaed7">c</span><span style="color: #ffaed7">o</span><span style="color: #ffaed7">d</span><span style="color: #ffaed7">e</span><span style="color: #ffaed7">:</span><span style="color: #ffaed7"> </span><span style="color: #ffaed7">s</span><span style="color: #ffaed7">o</span><span style="color: #ffaed7">f</span><span style="color: #ffaed7">t</span><span style="color: #ffaed7">j</span><span style="color: #ffaed7">o</span><span style="color: #ffaed7">y + free shipping over $15 worldwide! </span><span style="color: #ffaed7"></span></span></span></small></p>
+
+
+</div><!-- rebloggedct -->
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="662805210525319168" data-blog-name="clueless-cutie" id="like_button_662805210525319168"><iframe id="like_iframe_662805210525319168" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=662805210525319168&amp;color=black&amp;rk=WVcgbBy5&amp;root_id=662184976871194624" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_662805210525319168"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/662805210525319168/WVcgbBy5" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">710</div>
+
+ 
+<div class="date">
+
+
+
+
+ - <a href="https://lovecatcher.tumblr.com/post/662184976871194624/lace-bowknot-lingerie-3-colors-more-10" title="Reblogged from: lovecatcher"><i class="fa fa-smile-o"></i></a>
+
+ - <a href="https://lovecatcher.tumblr.com/post/662184976871194624/lace-bowknot-lingerie-3-colors-more-10" title="source: lovecatcher"><i class="fa fa-copyright"></i></a>
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+ 
+
+<center>
+<a href="https://64.media.tumblr.com/bd53466fce9ba9484a7bb4700508f9d9/e978b07d4f9b42bc-8a/s500x750/807d4471b1e247bb8b75da27749d73c6e28f05de.gifv"><img src="https://64.media.tumblr.com/bd53466fce9ba9484a7bb4700508f9d9/e978b07d4f9b42bc-8a/s400x600/b273fd75c4e636bb8598f90ad6320712d3a8a895.gifv" alt="cokaino:
+&ldquo;photo source
+&rdquo;"></a></center>
+
+
+<div class="rebloggedct">
+
+
+<div class="linearebloggedct"></div>
+<div class="rebloggedusername">
+
+
+<img src="https://64.media.tumblr.com/9ea431234aee3e240a52049c6c7e1b43/a41ae79fe4efb4f1-f0/s64x64u_c1/d170e867724ca33de2796bdbf153d585cbaa8fa4.jpg" class="reblogctimage">
+
+
+
+<a href="https://cokaino.tumblr.com/post/659224326629949440" target="_blank">cokaino</a>:
+
+
+</div>
+<p><a href="https://geyashvecova.tumblr.com/post/177622882587/art-gshvecova-design-graphics-space">photo source</a></p>
+
+
+</div><!-- rebloggedct -->
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="661816664512512000" data-blog-name="clueless-cutie" id="like_button_661816664512512000"><iframe id="like_iframe_661816664512512000" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=661816664512512000&amp;color=black&amp;rk=DUc6jVt3&amp;root_id=659224326629949440" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_661816664512512000"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/661816664512512000/DUc6jVt3" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">5338</div>
+
+ 
+<div class="date">
+
+
+
+
+ - <a href="https://lovecatcher.tumblr.com/post/661737499721449472/cokaino-photo-source" title="Reblogged from: lovecatcher"><i class="fa fa-smile-o"></i></a>
+
+ - <a href="https://cokaino.tumblr.com/post/659224326629949440/photo-source" title="source: cokaino"><i class="fa fa-copyright"></i></a>
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+<div class="posts">
+    
+
+ 
+
+
+
+<figure class="tmblr-full"><a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/5c19f86255d0b76e979d10ab35519163/ee3dcaba90248796-4d/s1280x1920/1228490f4d737e2c244b5edcdaf8b5bbf755cb40.jpg" data-big-photo-height="1062" data-big-photo-width="1080"><img class="post_media_photo image" src="https://64.media.tumblr.com/5c19f86255d0b76e979d10ab35519163/ee3dcaba90248796-4d/s500x750/93579a8211feabd3b2ce32b4b3254245644ff350.jpg" alt="image"></a></figure>
+
+<div class="rebloggedct">
+
+</div><!-- rebloggedct -->
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+<div id="footer">
+
+
+
+<div id="w-likereblogbuttons">
+
+
+<div class="w-likebutton">
+<div class="custom-like-button">
+  <div class="like_button" data-post-id="661816567124852736" data-blog-name="clueless-cutie" id="like_button_661816567124852736"><iframe id="like_iframe_661816567124852736" src="https://assets.tumblr.com/assets/html/like_iframe.html?_v=66c22ab5319d742bca5762b8d18f9d06#name=clueless-cutie&amp;post_id=661816567124852736&amp;color=black&amp;rk=tLflmfCh" scrolling="no" width="16" height="16" frameborder="0" class="like_toggle" allowTransparency="true" name="like_iframe_661816567124852736"></iframe></div>
+  <a class="our_toggle">
+    <svg width="100%" height="100%" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path></svg>
+  </a>
+</div>
+</div>
+
+ 
+
+<div class="w-reblogbutton">
+<a href="https://www.tumblr.com/reblog/clueless-cutie/661816567124852736/tLflmfCh" target="_blank">
+<svg width="100%" height="100%" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000"><path d="M5.01092527,5.99908429 L16.0088498,5.99908429 L16.136,9.508 L20.836,4.752 L16.136,0.083 L16.1360004,3.01110845 L2.09985349,3.01110845 C1.50585349,3.01110845 0.979248041,3.44726568 0.979248041,4.45007306 L0.979248041,10.9999998 L3.98376463,8.30993634 L3.98376463,6.89801007 C3.98376463,6.20867902 4.71892527,5.99908429 5.01092527,5.99908429 Z"></path><path d="M17.1420002,13.2800293 C17.1420002,13.5720293 17.022957,14.0490723 16.730957,14.0490723 L4.92919922,14.0490723 L4.92919922,11 L0.5,15.806 L4.92919922,20.5103758 L5.00469971,16.9990234 L18.9700928,16.9990234 C19.5640928,16.9990234 19.9453125,16.4010001 19.9453125,15.8060001 L19.9453125,9.5324707 L17.142,12.203"></path></svg>
+</a>
+</div>
+
+
+</div><!-- like and reblog buttons -->
+
+
+
+ 
+<!-- notes button -->
+
+<div class="notas">429</div>
+
+ 
+<div class="date">
+
+
+
+
+
+</div><!-- date -->
+ 
+<!-- tags -->
+
+ 
+
+</div><!-- footer -->
+
+
+    
+</div>
+
+
+
+</div><!-- /#holder -->
+
+</div><!-- /.outer  -->
+
+</div><!-- /#outer -->
+
+
+<!-- scripts -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+
+<script src="https://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js"></script>
+ 
+<script>
+$(document).ready(function() {
+  // audio player
+  var $audio = $('iframe.tumblr_audio_player');
+  $audio.load(function() {
+    $(this).contents().find('head').append('<style type="text/css">' +
+      '.audio-player { background:#f8e0f4; color: #fff !important; }' +
+      '.audio-player .audio-info .track-artist { color: #fff !important; }' +
+    '</style>');
+  });
+});
+
+(function($){$(document).ready(function(){$("a[title]").style_my_tooltips({tip_follows_cursor:true,tip_delay_time:90,tip_fade_speed:100,attribute:"title"});});})(jQuery);
+</script>
+
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://clueless-cutie.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="zUgCumIh4ntKZsKQixzC6dyyRQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1640756869&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2NsdWVsZXNzLWN1dGllLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIn0=&U=NJIAPBNLIE&K=1ee8f66c1855958d02875eb4499b0237d94bf826196b5400653df3feea987cec&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1640756869&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2NsdWVsZXNzLWN1dGllLnR1bWJsci5jb20vIiwicmVxdHlwZSI6MCwicm91dGUiOiIvIiwibm9zY3JpcHQiOjF9&U=NJIAPBNLIE&K=d0fa77082441f4d9d9c43fd18b68256a15a05449f3e158aa306fa11102f2aa17&R="></noscript><script type="text/javascript" nonce="zUgCumIh4ntKZsKQixzC6dyyRQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1640756869&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9jbHVlbGVzcy1jdXRpZS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJwb3N0aWQiOiI2NzEzMjkyNDAyMzQ1NDEwNTciLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NzEyMTMzMDM2MDQ4ODc1NTIiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjkxNjMwMzIxNjA2OTgzNjgiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjkxNjE1MjEwMzE1NDQ4MzIiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjgxNDY0NzQ4OTg2MzY4MDAiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjQ3MjM4MzAxMzQxNzc3OTIiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjQ3MjM1Njk2OTgzOTAwMTYiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6Mjk0ODczMjcsInJvb3RfcG9zdGlkIjoiNjYyMTg0OTc2ODcxMTk0NjI0IiwicG9zdGlkIjoiNjYyODA1MjEwNTI1MzE5MTY4IiwiYmxvZ2lkIjoyNjE5ODU0OTIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOjMzMDg1MDM2Nywicm9vdF9wb3N0aWQiOiI2NTkyMjQzMjY2Mjk5NDk0NDAiLCJwb3N0aWQiOiI2NjE4MTY2NjQ1MTI1MTIwMDAiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjE4MTY1NjcxMjQ4NTI3MzYiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM31dfQ==&U=BJBMHMODCO&K=ef940814ab34d81559e32018511cf5a2a218e768693f4f6ad6f90829c5e8e51a&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1640756869&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9jbHVlbGVzcy1jdXRpZS50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyIsInBvc3RzIjpbeyJwb3N0aWQiOiI2NzEzMjkyNDAyMzQ1NDEwNTciLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NzEyMTMzMDM2MDQ4ODc1NTIiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjkxNjMwMzIxNjA2OTgzNjgiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjkxNjE1MjEwMzE1NDQ4MzIiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjgxNDY0NzQ4OTg2MzY4MDAiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjQ3MjM4MzAxMzQxNzc3OTIiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjQ3MjM1Njk2OTgzOTAwMTYiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6Mjk0ODczMjcsInJvb3RfcG9zdGlkIjoiNjYyMTg0OTc2ODcxMTk0NjI0IiwicG9zdGlkIjoiNjYyODA1MjEwNTI1MzE5MTY4IiwiYmxvZ2lkIjoyNjE5ODU0OTIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOjMzMDg1MDM2Nywicm9vdF9wb3N0aWQiOiI2NTkyMjQzMjY2Mjk5NDk0NDAiLCJwb3N0aWQiOiI2NjE4MTY2NjQ1MTI1MTIwMDAiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM30seyJwb3N0aWQiOiI2NjE4MTY1NjcxMjQ4NTI3MzYiLCJibG9naWQiOjI2MTk4NTQ5Miwic291cmNlIjozM31dLCJub3NjcmlwdCI6MX0=&U=BJBMHMODCO&K=bc6ab3b00da7e61a9f125bd833191f6455128bd0303822a6b4f4ca54fa32aeac&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=3adb836a96eddc27a1180d62826b0901&quot;,&quot;tumblelogName&quot;:&quot;clueless-cutie&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Ugh, As If&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/dc926233659c3d078d5ce20c766391c7\/5fac316f9bb61463-fc\/s64x64u_c1\/80aa14630b30284b5caeacc6bafe3a669ce21fea.jpg&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/dc926233659c3d078d5ce20c766391c7\/5fac316f9bb61463-fc\/s128x128u_c1\/e6b024ac7a74018d1fa2f8066b5a11be1f577eb3.jpg&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/clueless-cutie.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/64.media.tumblr.com\/d22780e15f3eeb2d2e03b9918a1d699b\/5fac316f9bb61463-ca\/s2048x3072_c0,0,100000,99638\/e077cf9b56ac92938f8fae42346613d1eaccb0f3.gif&quot;,&quot;themeBackgroundColor&quot;:&quot;#FAFAFA&quot;,&quot;themeTitleColor&quot;:&quot;#FFB9E2&quot;,&quot;themeAccentColor&quot;:&quot;#529ECC&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:1,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/clueless-cutie.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJlbmFibGVfanNfZXJyb3JzX2xvZyI6dHJ1ZSwibG9nX2xhZHkiOnRydWUsInJlZHBvcF9wb3N0X2Zvcm1fbW9iaWxlX2NyZWF0ZSI6dHJ1ZSwibGVnYWN5X3Bvc3RfZm9ybV9idXR0b25zX2xpbmtfdG9fcmVkcG9wIjp0cnVlLCJzaG93X3RzcF9jbGlja190aHJvdWdoX3RvZ2dsZSI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsInN0YXR1c19pbmRpY2F0b3IiOnRydWUsImNvbnZlcnNhdGlvbmFsX25vdGlmaWNhdGlvbnMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsImxpdmVwaG90b3MiOnRydWV9&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1640756869000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;es_ES&quot;,&quot;language_simple&quot;:&quot;es&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;Cancel&quot;:&quot;Cancelar&quot;,&quot;Nevermind&quot;:&quot;Cancelar&quot;,&quot;Ignore&quot;:&quot;Ignorar&quot;,&quot;Unfollow&quot;:&quot;Dejar de seguir&quot;,&quot;Are you sure you want to unfollow %1$s?&quot;:&quot;\u00bfSeguro que quieres dejar de seguir a %1$s?&quot;,&quot;Sorry, we seem to be having technical trouble.  Please try again later.&quot;:&quot;Lo sentimos, parece que estamos experimentando problemas t\u00e9cnicos. Vuelve a intentarlo m\u00e1s tarde.&quot;,&quot;Follow&quot;:&quot;Seguir&quot;,&quot;Follow %1$s&quot;:&quot;Seguir a %1$s&quot;,&quot;Put it back&quot;:&quot;Vuelve a tu sitio&quot;,&quot;See all&quot;:&quot;Ver todas&quot;,&quot;Block&quot;:&quot;Bloquear&quot;,&quot;%1$sAre you sure you want to block %2$s from %3$s?%4$sThey won&#039;t be able to follow %3$s, send %3$s messages, see %3$s in search results, or interact with any of %3$s&#039;s posts.%5$s&quot;:&quot;%1$s\u00bfSeguro que quieres bloquear a %2$s de %3$s?%4$sNo podr\u00e1 seguir a %3$s, enviar mensajes a %3$s, ver a %3$s en los resultados de b\u00fasqueda o interactuar de forma alguna con las publicaciones de %3$s.%5$s&quot;,&quot;%1$sBlock messages from this sender?%2$sAny further messages sent from their IP address will be blocked from your inbox. This can&#039;t be undone, by the way.%3$s&quot;:&quot;\u00bf%1$sQuieres bloquear los mensajes de este remitente?%2$sDejar\u00e1s de recibir mensajes enviados desde su misma direcci\u00f3n IP en tu bandeja de entrada. No olvides que no es posible deshacer este cambio.%3$s&quot;,&quot;Okay! We&#039;ll review the status of this and email you when we&#039;re done.&quot;:&quot;\u00a1Perfecto! Analizaremos el caso y te enviaremos un correo electr\u00f3nico cuando el proceso haya terminado.&quot;,&quot;This is marked as sensitive content. If that seems like a mistake, you can request a review.&quot;:&quot;Esta publicaci\u00f3n est\u00e1 marcada como contenido delicado. Si crees que se trata de un error, puedes pedirnos que la revisemos.&quot;,&quot;Request Review&quot;:&quot;Solicitar revisi\u00f3n&quot;,&quot;This post is still marked as sensitive, but is currently being reviewed.&quot;:&quot;Esta publicaci\u00f3n sigue marcada como contenido delicado, pero la estamos revisando.&quot;,&quot;After review, it was determined that this post contains sensitive content.&quot;:&quot;Tras revisarlo, hemos corroborado que el contenido de esta publicaci\u00f3n puede ser delicado.&quot;,&quot;This is marked as %1$ssensitive%2$s&quot;:&quot;Esta publicaci\u00f3n incluye %1$scontenido delicado%2$s&quot;,&quot;This Tumblr may contain sensitive media.&quot;:&quot;El contenido de este Tumblr puede ser delicado.&quot;,&quot;Sensitive posts are hidden. If you want to change that, disable Safe Mode in your settings.&quot;:&quot;Las publicaciones con contenidos que pueden resultar delicados est\u00e1n ocultas. Para mostrarlas, desactiva el modo seguro en el apartado de configuraci\u00f3n.&quot;,&quot;Hey, this post may contain adult content, so we&#039;ve hidden it from public view.&quot;:&quot;Vaya... Es posible que esta publicaci\u00f3n incluya contenido para adultos y, por eso, la hemos ocultado.&quot;,&quot;Learn more&quot;:&quot;M\u00e1s informaci\u00f3n&quot;,&quot;%1$sLearn more%2$s&quot;:&quot;%1$sM\u00e1s informaci\u00f3n%2$s&quot;,&quot;Safe Mode is on&quot;:&quot;Modo seguro activado&quot;,&quot;%1$sSafe mode is on%2$s&quot;:&quot;%1$sModo seguro activado%2$s&quot;,&quot;View this Tumblr&quot;:&quot;Ver este Tumblr&quot;,&quot;This content contains adult content which violates our Community Guidelines.&quot;:&quot;Esta publicaci\u00f3n incluye contenido para adultos y, por tanto, infringe las Normas de la comunidad.&quot;,&quot;This post was flagged because we think it contains adult content which violates our Community Guidelines. It has been hidden from others, but not deleted. If you think this was done in error, tap Appeal and a real, live human will review it.&quot;:&quot;Hemos marcado esta publicaci\u00f3n porque creemos que incluye contenido para adultos y, por lo tanto, incumple las Normas de la comunidad. De momento, est\u00e1 oculta para el resto de usuarios, pero no la hemos eliminado. Si crees que se trata de un error, utiliza el bot\u00f3n para solicitar una revisi\u00f3n y un miembro de nuestro equipo se encargar\u00e1 de comprobarla.&quot;,&quot;Your post is in content appeal. Once a decision has been made, we&#039;ll send you an email.&quot;:&quot;Esta publicaci\u00f3n se encuentra en revisi\u00f3n. Te enviaremos un correo electr\u00f3nico cuando hayamos tomado una decisi\u00f3n.&quot;,&quot;This post was flagged because it contains adult content which violates our Community Guidelines. It has not been deleted but is now only viewable to you. This decision cannot be appealed.&quot;:&quot;Hemos marcado esta publicaci\u00f3n porque incluye contenido para adultos y, por lo tanto, incumple las Normas de la comunidad. No la hemos eliminado, pero, a partir de ahora, solo podr\u00e1s verla t\u00fa. Esta decisi\u00f3n es definitiva y no podr\u00e1s solicitar que se revise.&quot;,&quot;This post was flagged because somewhere in your reblog there might be adult content which is a violation of our Community Guidelines.&quot;:&quot;Hemos marcado esta publicaci\u00f3n porque el reblogueo inclu\u00eda contenido para adultos y, por lo tanto, incumpl\u00eda las Normas de la comunidad.&quot;,&quot;This reblog is in content appeal&quot;:&quot;Este reblogueo se ha enviado al equipo de revisi\u00f3n&quot;,&quot;Your post is in content appeal&quot;:&quot;Tu contenido se ha enviado al equipo de revisi\u00f3n&quot;,&quot;This post was flagged because somewhere in your reblog there might be adult content.&quot;:&quot;Hemos marcado esta publicaci\u00f3n porque parece que el reblogueo inclu\u00eda contenido para adultos.&quot;,&quot;It looks like your post might be in violation of our Community Guidelines and is now hidden.&quot;:&quot;Parece que tu publicaci\u00f3n podr\u00eda incumplir nuestras Normas de la comunidad, as\u00ed que hemos decidido ocultarla.&quot;,&quot;Based on our Community Guidelines this post contains adult content and is now only viewable to you.&quot;:&quot;Seg\u00fan nuestras Normas de la comunidad, esta publicaci\u00f3n incluye contenido para adultos y, a partir de ahora, solo t\u00fa podr\u00e1s verla.&quot;,&quot;Your appeal was accepted! This post is no longer hidden.&quot;:&quot;Hemos valorado tu solicitud de revisi\u00f3n y \u00a1ten\u00edas raz\u00f3n! Este contenido ya no est\u00e1 oculto.&quot;,&quot;Dismiss&quot;:&quot;Descartar&quot;,&quot;Appeal&quot;:&quot;Solicitar revisi\u00f3n&quot;,&quot;This post contains filtered tags&quot;:&quot;Esta publicaci\u00f3n contiene etiquetas filtradas&quot;,&quot;Are you sure you want to log out?&quot;:&quot;\u00bfSeguro que quieres cerrar la sesi\u00f3n?&quot;,&quot;Likes&quot;:&quot;Me gusta&quot;,&quot;Following&quot;:&quot;Siguiendo&quot;,&quot;New&quot;:&quot;A\u00f1adir blog&quot;,&quot;Account&quot;:&quot;Cuenta&quot;,&quot;Settings&quot;:&quot;Configuraci\u00f3n&quot;,&quot;Help&quot;:&quot;Ayuda&quot;,&quot;Log out&quot;:&quot;Cerrar sesi\u00f3n&quot;,&quot;Posts&quot;:&quot;Publicaciones&quot;,&quot;Reach&quot;:&quot;Alcance&quot;,&quot;Followers&quot;:&quot;Seguidores&quot;,&quot;Activity&quot;:&quot;Actividad&quot;,&quot;Members&quot;:&quot;Miembros&quot;,&quot;Drafts&quot;:&quot;Borradores&quot;,&quot;Queue&quot;:&quot;En cola&quot;,&quot;Processing&quot;:&quot;Procesando&quot;,&quot;Review flagged posts&quot;:&quot;Comprobar publicaciones marcadas&quot;,&quot;Analytics&quot;:&quot;Estad\u00edsticas&quot;,&quot;Sponsor&quot;:&quot;Patrocinador&quot;,&quot;Sponsored&quot;:&quot;Patrocinado&quot;,&quot;About Tumblr Ads&quot;:&quot;Acerca de la publicidad en Tumblr&quot;,&quot;Edit appearance&quot;:&quot;Modificar apariencia&quot;,&quot;Your blog info, account info, and recent activity are in these menus.&quot;:&quot;La informaci\u00f3n de tu blog, los datos de tu cuenta y tu actividad reciente se encuentran en estos men\u00fas.&quot;,&quot;Wait, why?&quot;:&quot;Pero \u00bfpor qu\u00e9?&quot;,&quot;Okay, phew&quot;:&quot;\u00a1Ah, vale!&quot;,&quot;Why?&quot;:&quot;\u00bfQu\u00e9 ofrecemos?&quot;,&quot;It&#039;s so you never have to scroll to the top of the dashboard to access this stuff.&quot;:&quot;Lo hemos juntado todo aqu\u00ed para que no tengas que desplazarte hacia la parte superior del Escritorio cada vez que quieras acceder a estas opciones.&quot;,&quot;Ohhh&quot;:&quot;Aaaah&quot;,&quot;Loading\u2026&quot;:&quot;Cargando...&quot;,&quot;%1$s notes&quot;:&quot;%1$s notas&quot;,&quot;%1$s note&quot;:&quot;%1$s nota&quot;,&quot;%1$s views&quot;:&quot;%1$s visitas&quot;,&quot;%1$s view&quot;:&quot;%1$s visita&quot;,&quot;%1$s added this GIF to a post&quot;:&quot;%1$s ha utilizado este GIF en una publicaci\u00f3n&quot;,&quot;%1$s posted this&quot;:&quot;%1$s ha publicado esto&quot;,&quot;%1$s%2$s likes%3$s&quot;:&quot;%1$s%2$s Me gusta%3$s&quot;,&quot;%1$s%2$s like%3$s&quot;:&quot;%1$s%2$s Me gusta%3$s&quot;,&quot;%1$s%2$s reblogs%3$s&quot;:&quot;%1$s%2$s reblogueos%3$s&quot;,&quot;%1$s%2$s reblog%3$s&quot;:&quot;%1$s%2$s reblogueo%3$s&quot;,&quot;%1$s%2$s likes%3$s and %4$s%5$s reblogs%3$s&quot;:&quot;%1$s%2$s Me gusta%3$s y %4$s%5$s reblogueos%3$s&quot;,&quot;%1$s%2$s likes%3$s and %4$s%5$s reblog%3$s&quot;:&quot;%1$s%2$s Me gusta%3$s y %4$s%5$s reblogueo%3$s&quot;,&quot;%1$s%2$s like%3$s and %4$s%5$s reblogs%3$s&quot;:&quot;%1$s%2$s Me gusta%3$s y %4$s%5$s reblogueos%3$s&quot;,&quot;Reply&quot;:&quot;Responder&quot;,&quot;Add to the discussion&quot;:&quot;Comparte tu opini\u00f3n&quot;,&quot;Unleash a compliment&quot;:&quot;Haz un cumplido&quot;,&quot;Have something to say?&quot;:&quot;\u00bfAlgo que decir?&quot;,&quot;Reply your heart out&quot;:&quot;Abre tu coraz\u00f3n&quot;,&quot;Add something wonderful&quot;:&quot;Comparte algo espectacular&quot;,&quot;Send something nice&quot;:&quot;Di algo bonito&quot;,&quot;Your words here&quot;:&quot;Aqu\u00ed es donde van las palabras&quot;,&quot;Say your thing&quot;:&quot;\u00bfAlgo que decir?&quot;,&quot;Block %1$s&quot;:&quot;Bloquear a %1$s&quot;,&quot;Report&quot;:&quot;Denunciar&quot;,&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$s\u00bfSeguro que quieres denunciar el blog de %2$s?%3$sSi infringe las normas de la comunidad, lo eliminaremos.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$s\u00bfSeguro que quieres denunciar el blog de %2$s?%3$sSi infringe las normas de la comunidad, lo eliminaremos.%4$s&quot;,&quot;Hide note&quot;:&quot;Ocultar nota&quot;,&quot;Delete reply&quot;:&quot;Borrar respuesta&quot;,&quot;%1$sYou definitely want to hide this note?%2$s&quot;:&quot;%1$s\u00bfSeguro que quieres ocultar esta nota?%2$s&quot;,&quot;%1$sYou definitely want to delete this reply?%2$s&quot;:&quot;%1$s\u00bfSeguro que quieres borrar esta respuesta?%2$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$s\u00bfQuieres eliminar la propina?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Al hacerlo, solo la borrar\u00e1s de la pesta\u00f1a de las respuestas y de las notas. %1$sNo recibir\u00e1s ning\u00fan reembolso por tu propina%2$s. Si necesitas ayuda o tienes alguna otra pregunta, %3$sescribe al equipo de asistencia de Tumblr%4$s.&quot;,&quot;Hide it&quot;:&quot;S\u00ed, ocultadla&quot;,&quot;Delete it&quot;:&quot;S\u00ed, borradla&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=3adb836a96eddc27a1180d62826b0901"></script></body>
+</html>
